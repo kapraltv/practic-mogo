@@ -1,0 +1,2 @@
+# practic-mogo
+simple website 
